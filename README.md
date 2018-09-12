@@ -9,3 +9,6 @@
 ## Licence
 ### Find the link to my licence.
 #### https://choosealicense.com/licenses/mit/
+## Copyright (c)
+## winnie Adhiambo
+
